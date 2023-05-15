@@ -20,7 +20,7 @@ You can install these dependencies using pip: pip install pyttsx3 SpeechRecognit
 
 2. Install the required dependencies as mentioned in the Requirements section.
 
-3. Run the `voice_assistant.py` file: python Jarvis.py
+3. Run the `voice_assistant.py` file
 
 4. Jarvis will greet you and wait for your command.
 
